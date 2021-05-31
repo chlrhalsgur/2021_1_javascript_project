@@ -1,0 +1,23 @@
+{
+  "name": "2021_1_javascript_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiTest1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlrhalsgur/2021_1_javascript_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlrhalsgur/2021_1_javascript_project/issues"
+  },
+  "homepage": "https://github.com/chlrhalsgur/2021_1_javascript_project#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}

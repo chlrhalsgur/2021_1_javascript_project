@@ -1,0 +1,9 @@
+일반 인증키
+(Encoding)	
+k9FpTZ71Gf3BB%2FibO%2FJSQZT3TlCjWJU85r%2FkiumB2OKaueTUTwEj4gWI1nxdQ5EmfsTzmlMLA7vm0DDHjXC0qA%3D%3D
+일반 인증키
+(Decoding)	
+k9FpTZ71Gf3BB/ibO/JSQZT3TlCjWJU85r/kiumB2OKaueTUTwEj4gWI1nxdQ5EmfsTzmlMLA7vm0DDHjXC0qA==
+
+
+End Point	http://apis.data.go.kr/1262000/CountryCovid19SafetyServiceNew
